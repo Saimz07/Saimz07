@@ -1,23 +1,16 @@
-# Security Lab
+## Muhammad Saim Zahid
 
-Notes and writeups from my cybersecurity self-study. Everything here
-was done in my own lab environment or on authorised training platforms.
+Cybersecurity student at NUTECH, Islamabad — third semester.
 
-## Writeups
+I document what I learn. Labs, CTF challenges, and small security
+tools live in [security-lab](https://github.com/Saimz07/security-lab).
 
-| Date | Name | Platform | Category |
-|------|------|----------|----------|
-| | | | |
+**Currently working on**
+- Networking fundamentals and packet analysis
+- Linux command line and shell scripting
+- Moving from C++ into Python
 
-## Tools
+**Tools** — Wireshark · Nmap · Bash · Git  
+**Languages** — C++ · Python
 
-Small Python utilities I've written while learning. Each has its own README.
-
-## Lab setup
-
-VirtualBox on a host-only network. Kali Linux as the attacker,
-deliberately vulnerable VMs as targets, isolated from any other network.
-
----
-Everything here is for learning and defence. Nothing in this repository
-was run against a system I do not own or have permission to test.
+[LinkedIn](https://www.linkedin.com/in/muhammad-saim-zahid-8a4117423)
