@@ -3,7 +3,7 @@
 Cybersecurity student at NUTECH, Islamabad — third semester.
 
 I document what I learn. Labs, CTF challenges, and small security
-tools live in [security-lab](https://github.com/Saimz07/security-lab).
+tools live in [security-lab](https://github.com/Saimz07/Security-lab).
 
 **Currently working on**
 - Networking fundamentals and packet analysis
