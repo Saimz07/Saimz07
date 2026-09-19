@@ -1,16 +1,23 @@
-## Hi there 👋
+# Security Lab
 
-<!--
-**Saimz07/Saimz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Notes and writeups from my cybersecurity self-study. Everything here
+was done in my own lab environment or on authorised training platforms.
 
-Here are some ideas to get you started:
+## Writeups
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Date | Name | Platform | Category |
+|------|------|----------|----------|
+| | | | |
+
+## Tools
+
+Small Python utilities I've written while learning. Each has its own README.
+
+## Lab setup
+
+VirtualBox on a host-only network. Kali Linux as the attacker,
+deliberately vulnerable VMs as targets, isolated from any other network.
+
+---
+Everything here is for learning and defence. Nothing in this repository
+was run against a system I do not own or have permission to test.
